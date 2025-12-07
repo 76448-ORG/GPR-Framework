@@ -12,19 +12,6 @@ The entire protocol operates under a **Human-in-the-Loop (HITL)** paradigm, acti
 
 <div style="page-break-after: always;"></div>
 
-## ToC - Table of Contents
-
-1. [Project Problem Statement](#problem-statement)
-2. [Project Objective and Goal](#objectivegoal)
-3. [Project Description](#description)
-4. [Conceptual and Theoretical Foundations](#conceptual-and-theoretical-foundations)
-5. [Systemic Blueprint for Dual-Layer Processing](#systemic-blueprint-for-dual-layer-processing)
-6. [Graphical Representation](#graphical-representation)
-7. [Team Members, Contributors and Mentors](#team-members-and-contributors)
-8. [Bibliography and Acknowledgements](#bibliography)
-
-<div style="page-break-after: always;"></div>
-
 ## Problem Statement
 
 The primary limitation of contemporary **Affective Computing** systems is their dependence on **categorical emotion models** and **static training regimes**, causing them to fail in representing the **nuanced, mixed-affective states** of human communication. Specifically, current models suffer from:
