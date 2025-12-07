@@ -71,7 +71,7 @@ The **JAST Approach** is fundamentally an exercise in **Affective Computing**, s
 - **Trust - Disgust**
 
 <div align="center">
-  <img src="assets/imgs/WheelOfEmotions.webp" alt="Image of Plutchik's Wheel of Emotions" width="80%">
+  <img src="https://raw.githubusercontent.com/76448-ORG/GPR-Framework/main/assets/imgs/WheelOfEmotions.webp" alt="Image of Plutchik's Wheel of Emotions" width="80%">
 </div>
 
 <div style="page-break-after: always;"></div>
