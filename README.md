@@ -162,7 +162,7 @@ graph LR;
 
 ## Team Members and Contributors
 
-1. Srijan Bhattacharyya [![Team Leader](https://img.shields.io/badge/Team%20Leader-00ff00?style=plastic)]()
+1. Srijan Bhattacharyya [![Team Leader](https://img.shields.io/badge/Team%20Leader-ff0000?style=plastic)]()
 2. Arijit Ghosh [![Member](https://img.shields.io/badge/Member-00ff00?style=plastic)]()
 3. Kushal Biswas [![Member](https://img.shields.io/badge/Member-00ff00?style=plastic)]()
 4. Pukar Sharma [![Member](https://img.shields.io/badge/Member-00ff00?style=plastic)]()
