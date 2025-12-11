@@ -10,8 +10,6 @@ The entire protocol operates under a **Human-in-the-Loop (HITL)** paradigm, acti
 - **Guidance:** Human trainers provide real-time corrective feedback and assign new labels for complex or abstract emotional concepts.
 - **Adaptation:** **Continual Learning (CL)** algorithms, such as **Elastic Weight Consolidation (EWC)**, efficiently update the universal emotional map based on this feedback, dynamically creating new emotional regions and vectors without suffering from catastrophic forgetting.
 
-<div style="page-break-after: always;"></div>
-
 ## Problem Statement
 
 The primary limitation of contemporary **Affective Computing** systems is their dependence on **categorical emotion models** and **static training regimes**, causing them to fail in representing the **nuanced, mixed-affective states** of human communication. Specifically, current models suffer from:
@@ -30,8 +28,6 @@ This OS-like function requires the system to:
 2. **Achieve Emotive Parity:** Synthesize the raw, logical output from the AI API with an emotionally congruent response layer to ensure the user perceives a conversation with a human-like entity.
 3. **Ensure Adaptability:** Employ a **Human-in-the-Loop (HITL)** framework and **Elastic Weight Consolidation (EWC)** to enable indefinite, stable knowledge acquisition and real-time social alignment.
 
-<div style="page-break-after: always;"></div>
-
 ## Description
 
 The **Generative & Programmable Response Framework (GPR-Framework)**, built upon the **JAST Emotional AI Framework**, functions as an **Emotional Operating System (OS)** that controls the flow of communication between a human user and a commercial AI API. This OS role involves a **Dual-Translation Emotive Bridge** process:
@@ -41,8 +37,6 @@ The **Generative & Programmable Response Framework (GPR-Framework)**, built upon
 2. **Output Translation (API $\rightarrow$ User):** It takes the raw, logical output from the API, passes it through its own **Affective Mimicry Policy ($\pi_{\text{affect}}$)**, and injects a contextually appropriate emotional layer. This final, emotively enhanced response is presented to the user, successfully simulating the conversational cadence and affective dynamics of a regular human being.
 
 This active refinement, guided by your **Preference Signals** in a process analogous to **RLHF**, allows the AI to dynamically discover and integrate nuanced emotional concepts specific to your linguistic style while maintaining a logical service layer via the LLM API.
-
-<div style="page-break-after: always;"></div>
 
 ## Conceptual and Theoretical Foundations
 
@@ -60,8 +54,6 @@ The **JAST Approach** is fundamentally an exercise in **Affective Computing**, s
 <div align="center">
   <img src="https://raw.githubusercontent.com/76448-ORG/GPR-Framework/main/assets/imgs/WheelOfEmotions.webp" alt="Image of Plutchik's Wheel of Emotions" width="80%">
 </div>
-
-<div style="page-break-after: always;"></div>
 
 ## Systemic Blueprint for Dual-Layer Processing
 
@@ -107,8 +99,6 @@ The mechanism for refining the $\pi_{\text{affect}}$ policy post-deployment:
 - **Policy Refinement (HITL):** Human evaluators provide **Preference Signals** on the appropriateness of the model's emotional output ($\mathcal{E}_{\text{exp}}$) in various social contexts.
 - **Training Technique:** This preference data fine-tunes the $\pi_{\text{affect}}$ model using **Reinforcement Learning from Human Preferences (RLHF)**.
 - **Memory Management:** **Continual Learning** techniques, such as **Elastic Weight Consolidation (EWC)**, are integrated to retain proficiency across all contexts and prevent **Catastrophic Forgetting**.
-
-<div style="page-break-after: always;"></div>
 
 ## Graphical Representation
 
@@ -158,23 +148,22 @@ graph LR;
     G & H --> A;
 ```
 
-<div style="page-break-after: always;"></div>
+## Team Members
 
-## Team Members and Contributors
-
-1. Srijan Bhattacharyya [![Team Leader](https://img.shields.io/badge/Team%20Leader-ff0000?style=plastic)]()
-2. Arijit Ghosh [![Member](https://img.shields.io/badge/Member-00ff00?style=plastic)]()
-3. Kushal Biswas [![Member](https://img.shields.io/badge/Member-00ff00?style=plastic)]()
-4. Pukar Sharma [![Member](https://img.shields.io/badge/Member-00ff00?style=plastic)]()
-5. Mojammil Ansari [![Member](https://img.shields.io/badge/Member-00ff00?style=plastic)]()
-6. Dr. Jhumki Barman [![External Member](https://img.shields.io/badge/External%20Member-0000ff?style=plastic)]()
+1. Srijan Bhattacharyya
+2. Arijit Ghosh
+3. Kushal Biswas
+4. Pukar Sharma
+5. Mojammil Ansari
 
 ## Mentors
 
-1. Dr. Utsa Roy [![Mentor](https://img.shields.io/badge/Mentor-00000ff?style=plastic)]()
-2. Dr. Monojit Chattarjee [![External Mentor](https://img.shields.io/badge/External%20Mentor-0000ff?style=plastic)]()
+1. Dr. Utsa Roy
 
-<div style="page-break-after: always;"></div>
+## External Contributors
+
+1. Dr. Jhumki Barman
+2. Dr. Monojit Chattarjee
 
 ## Bibliography
 
