@@ -156,7 +156,7 @@ graph LR;
 4. Pukar Sharma
 5. Mojammil Ansari
 
-## Mentors
+## Mentor
 
 1. Dr. Utsa Roy
 
